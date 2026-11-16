@@ -7,6 +7,16 @@ long item list, that means a lot of scrolling. This app adds a switch in the POS
 page header that flips the item selector to a compact list — thumbnail, item
 name, price/UOM and a stock-quantity pill per row.
 
+## Screenshots
+
+![The standard ERPNext POS grid, untouched](docs/screenshots/pos-grid.png)
+*The standard ERPNext POS grid, untouched*
+
+![List mode: compact rows with colour-coded stock](docs/screenshots/pos-list.png)
+*List mode: compact rows with colour-coded stock*
+
+Recorded on a demo site with made-up data.
+
 ### Features
 
 - **Grid ↔ List switch** in the POS page header, beside the 3-dot menu
